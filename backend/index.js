@@ -35,6 +35,6 @@ app.use("/api/v1/tweet", tweetRoute);
 
 
 
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT || 4000, () => {
   console.log(`server is listening on this ${process.env.PORT}`);
 });
