@@ -84,7 +84,7 @@ const Login = () => {
     <div className="w-screen h-screen flex items-center justify-center ">
       <div className="flex gap-36  w-[80%] justify-center items-center ">
         <div>
-          <img width={250} src="../src/assets/twitter-x.svg " alt="" />
+          <img width={250} src="/assets/twitter-x.svg" alt="twitter logo" />
         </div>
         <div className="flex flex-col gap-5 ">
           <h1 className="font-extrabold text-6xl">Happening now.</h1>

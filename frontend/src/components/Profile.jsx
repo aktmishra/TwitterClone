@@ -73,7 +73,7 @@ const Profile = () => {
         <div className="overflow-hidden h-52 ">
           <img
             className=" "
-            src="../src/assets/coverImage.png "
+            src="/assets/coverImage.png "
             alt="cover image"
           />
         </div>
